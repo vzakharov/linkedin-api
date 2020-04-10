@@ -72,7 +72,7 @@ profile = linkedin.get_profile('tom-quirk')
 
 <a name="get_profile_connections"></a>
 
-### linkedin.get_profile(urn_id)
+### linkedin.get_profile_connections(urn_id)
 
 Returns a Linkedin profile's first degree (direct) connections
 
